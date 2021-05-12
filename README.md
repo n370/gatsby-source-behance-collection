@@ -1,3 +1,5 @@
+# DEPRECATED. DON'T USE IT.
+
 # gatsby-source-behance-collection
 > Gatsby.js source plugin for loading collection information from Behance.
 
