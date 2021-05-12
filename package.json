@@ -15,12 +15,6 @@
     "url": "https://github.com/n370/gatsby-source-behance-collection/issues"
   },
   "homepage": "https://github.com/n370/gatsby-source-behance-collection",
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-source-plugin",
-    "behance"
-  ],
   "author": "Dylson Valente Neto <ama@n370.info>",
   "license": "MIT",
   "dependencies": {
